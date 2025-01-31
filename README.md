@@ -35,8 +35,3 @@ Explore the interactive dashboards
 ✔️ Predictive Analytics: Future enhancements can use ML models to predict CO2 trends.
 
 
-📞 Contact
-For any queries or collaborations, reach out via:
-📧 Email: juug22btech50170@gmail.com
-🔗 LinkedIn:https://www.linkedin.com/in/pasam-nutan-417114255/
-
